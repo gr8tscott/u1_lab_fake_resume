@@ -1,0 +1,30 @@
+nav {
+    background-color: #b39ddb;
+    padding: 10px 5px 5px 5px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header {
+    font: Helvetica;
+    font-style: italic;
+    background-color:rgb(107, 107, 236);
+    text-align: center;
+}
+
+h3{
+    color: red;
+}
+img{
+    max-width: 50%;
+}
+section{
+    text-align: center;
+}
